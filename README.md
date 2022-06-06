@@ -4,7 +4,6 @@ A list of papers, libraries and datasets
 ---
 - [Pose Estimation](#Pose-Estimation)
 - [Others](#Ohters)
-- [Survey, Resources and Tools](#survey-resources-and-tools)
 ---
 
 
@@ -30,7 +29,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 
-## Ohters
+## Ohters(Datasets)
 
 #### Before 2022
 
@@ -39,5 +38,4 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 
-## Survey, Resources and Tools
 
