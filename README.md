@@ -41,6 +41,3 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ## Survey, Resources and Tools
 
-#### Before 2022
-
-#### Before 2021
