@@ -16,11 +16,13 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 ## Pose Estimation
 
 #### Before 2022
-- [[Arxiv](https://arxiv.org/abs/2203.07918)] GPV-Pose: Category-level Object Pose Estimation via Geometry-guided Point-wise Voting [[GitHub](https://github.com/lolrudy/GPV_Pose)]
+
 #### Before 2021
 - [[ICCV2021](https://arxiv.org/abs/2109.10115v2)] StereOBJ-1M: Large-scale Stereo Image Dataset for 6D Object Pose Estimation
 
 - [[Arxiv](https://arxiv.org/abs/2111.00190)] Leveraging SE(3) Equivariance for Self-Supervised Category-Level Object Pose Estimation [[Project](https://dragonlong.github.io/equi-pose/)]
+- [[Arxiv/CoRL2018](https://arxiv.org/abs/1809.10790)] Deep Object Pose Estimation for Semantic Robotic Grasping of Household Objects  
+
 ---
 
 ## Ohters
