@@ -1,6 +1,6 @@
 # Pose-Estimation-Paper-List
-A list of papers, libraries and datasets
-Provided by this [[git](https://github.com/yinyunie/3D-Shape-Analysis-Paper-List)]
+-A list of papers, libraries and datasets
+-Provided by this [[git](https://github.com/yinyunie/3D-Shape-Analysis-Paper-List)]
 
 ---
 - [Pose Estimation](#Pose-Estimation)
