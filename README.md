@@ -24,7 +24,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 - [[CoRL2018](https://arxiv.org/abs/1809.10790)] Deep Object Pose Estimation for Semantic Robotic Grasping of Household Objects [[GitHub](https://github.com/NVlabs/Deep_Object_Pose)]  :fire: :star:
 
--- [[CVPR2020]([https://arxiv.org/abs/1809.1079](https://openaccess.thecvf.com/content_CVPR_2020/papers/He_PVN3D_A_Deep_Point-Wise_3D_Keypoints_Voting_Network_for_6DoF_CVPR_2020_paper.pdf)0)] PVN3D: A Deep Point-wise 3D Keypoints Voting Network for 6DoF Pose
+- [[CVPR2020]([https://arxiv.org/abs/1809.1079](https://openaccess.thecvf.com/content_CVPR_2020/papers/He_PVN3D_A_Deep_Point-Wise_3D_Keypoints_Voting_Network_for_6DoF_CVPR_2020_paper.pdf)0)] PVN3D: A Deep Point-wise 3D Keypoints Voting Network for 6DoF Pose
 Estimation [[GitHub](https://github.com/ethnhe/PVN3D)]  :fire: :star:
 
 
