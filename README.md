@@ -23,7 +23,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 #### Before 2021
 - [[ICCV 2021](https://arxiv.org/abs/2109.10115v2)] StereOBJ-1M: Large-scale Stereo Image Dataset for 6D Object Pose Estimation
 - [[Arxiv 2021](https://arxiv.org/abs/2111.00190)] Leveraging SE(3) Equivariance for Self-Supervised Category-Level Object Pose Estimation [[Project](https://dragonlong.github.io/equi-pose)]
-- [[CVPR 2021]()] GDR-Net: Geometry-Guided Direct Regression Network for Monocular 6D Object Pose Estimation [[GitHub](https://github.com/THU-DA-6D-Pose-Group/GDR-Net)] :fire: :star:
+- [[CVPR 2021](https://arxiv.org/pdf/2102.12145)] GDR-Net: Geometry-Guided Direct Regression Network for Monocular 6D Object Pose Estimation [[GitHub](https://github.com/THU-DA-6D-Pose-Group/GDR-Net)] :fire: :star:
 #### Before 2020
 - [[CVPR 2020](https://arxiv.org/abs/1809.1079)] PVN3D: A Deep Point-wise 3D Keypoints Voting Network for 6DoF Pose Estimation [[GitHub](https://github.com/ethnhe/PVN3D)] :fire: :star:
 - [[CVPR 2020](https://openaccess.thecvf.com/content_CVPR_2020/papers/Song_HybridPose_6D_Object_Pose_Estimation_Under_Hybrid_Representations_CVPR_2020_paper.pdf)] PVN3D: HybridPose: 6D Object Pose Estimation under Hybrid Representations [[GitHub](https://github.com/chensong1995/HybridPose)] :fire: :star:
