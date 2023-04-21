@@ -25,9 +25,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR 2022](https://arxiv.org/pdf/2203.17234.pdf)] Templates for 3D Object Pose Estimation Revisited: Generalization to New Objects and Robustness to Occlusions
 - [[CVPR 2022](https://arxiv.org/pdf/2203.12870.pdf)] RNNPose: Recurrent 6-DoF Object Pose Refinement with Robust Correspondence Field Estimation and Pose Optimization
 - [[CVPR 2022](https://arxiv.org/pdf/2203.01072.pdf)] OVE6D: Object Viewpoint Encoding for Depth-based 6D Object Pose Estimation
-- [[ECCV 2022](https)] Pose
-- [[ECCV 2022](https)] Pose
-- [[ECCV 2022](https)] Pose
+- [[CVPR 2022](https://arxiv.org/pdf/2205.12257.pdf)] OnePose: One-Shot Object Pose Estimation without CAD Models
+- [[WACV 2022](https://arxiv.org/pdf/2110.11636.pdf)] Occlusion-Robust Object Pose Estimation with Holistic Representation
+- [[CVPR 2022](https://arxiv.org/pdf/2204.09429.pdf)] HRPose: Real-Time High-Resolution 6D Pose Estimation Network Using Knowledge Distillation
 - [[ECCV 2022](https)] Pose
 - [[ECCV 2022](https)] Pose
 #### Before 2021
