@@ -21,8 +21,15 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR 2022](https://arxiv.org/pdf/2205.12257)] OnePose: One-Shot Object Pose Estimation without CAD Models [[GitHub](https://github.com/zju3dv/OnePose)] [[Project](https://zju3dv.github.io/onepose/)]:fire:
 - [[CVPR 2022](https://arxiv.org/pdf/2203.05334v1)] ICG: Fusing Region and Depth for Highly Efficient 3D Tracking of Textureless Objects [[GitHub](https://github.com/DLR-RM/3DObjectTracking)] :fire:
 - [[ECCV 2022](https://arxiv.org/pdf/2104.02527.pdf)] RCVPose: Vote from the Center: 6 DoF Pose Estimation in RGB-D Images by Radial Keypoint Voting
-- [[ECCV 2022](https)] Pose
 - [[IEEE 2022](https://ieeexplore.ieee.org/document/9682507)] VisuoTactile 6D Pose Estimation of an In-Hand Object Using Vision and Tactile Sensor Data
+- [[CVPR 2022](https://arxiv.org/pdf/2203.17234.pdf)] Templates for 3D Object Pose Estimation Revisited: Generalization to New Objects and Robustness to Occlusions
+- [[CVPR 2022](https://arxiv.org/pdf/2203.12870.pdf)] RNNPose: Recurrent 6-DoF Object Pose Refinement with Robust Correspondence Field Estimation and Pose Optimization
+- [[CVPR 2022](https://arxiv.org/pdf/2203.01072.pdf)] OVE6D: Object Viewpoint Encoding for Depth-based 6D Object Pose Estimation
+- [[ECCV 2022](https)] Pose
+- [[ECCV 2022](https)] Pose
+- [[ECCV 2022](https)] Pose
+- [[ECCV 2022](https)] Pose
+- [[ECCV 2022](https)] Pose
 #### Before 2021
 - [[ICCV 2021](https://arxiv.org/abs/2109.10115v2)] StereOBJ-1M: Large-scale Stereo Image Dataset for 6D Object Pose Estimation
 - [[Arxiv 2021](https://arxiv.org/abs/2111.00190)] Leveraging SE(3) Equivariance for Self-Supervised Category-Level Object Pose Estimation [[Project](https://dragonlong.github.io/equi-pose)]
