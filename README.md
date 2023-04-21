@@ -56,20 +56,19 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 #### Before 2020
 - [[CVPR 2020](https://arxiv.org/abs/1809.1079)] PVN3D: A Deep Point-wise 3D Keypoints Voting Network for 6DoF Pose Estimation [[GitHub](https://github.com/ethnhe/PVN3D)] :fire: :star:
-- [[CVPR 2020](https://openaccess.thecvf.com/content_CVPR_2020/papers/Song_HybridPose_6D_Object_Pose_Estimation_Under_Hybrid_Representations_CVPR_2020_paper.pdf)] PVN3D: HybridPose: 6D Object Pose Estimation under Hybrid Representations [[GitHub](https://github.com/chensong1995/HybridPose)] :fire: :star:
+- [[CVPR 2020](https://openaccess.thecvf.com/content_CVPR_2020/papers/Song_HybridPose_6D_Object_Pose_Estimation_Under_Hybrid_Representations_CVPR_2020_paper.pdf)] HybridPose: 6D Object Pose Estimation under Hybrid Representations [[GitHub](https://github.com/chensong1995/HybridPose)] :fire: :star:
 - [[IEEE 2020](https://arxiv.org/abs/1910.10750)] 6-PACK: Category-level 6D Pose Tracker with Anchor-Based Keypoints [[GitHub](https://github.com/j96w/6-PACK)] [[Project](https://sites.google.com/view/6packtracking)] :fire: :star:
-- [[ECCV 2022](https)] Pose
-- [[ECCV 2022](https)] Pose
-- [[ECCV 2022](https)] Pose
+- [[IEEE 2020](https://arxiv.org/pdf/1902.02394.pdf)] Real-time 3D Traffic Cone Detection for Autonomous Driving
+- [[arXiv 2020](https://arxiv.org/pdf/1812.11788.pdf)] PVNet: Pixel-wise Voting Network for 6DoF Pose Estimation
+
 
 #### Before 2019
 - [[CVPR 2019](https://arxiv.org/abs/1901.04780)] DenseFusion: 6D Object Pose Estimation by Iterative Dense Fusion [[GitHub](https://github.com/j96w/DenseFusion)]  [[Project](https://sites.google.com/view/densefusion/)] :fire: :star:
 - [[CoRL 2018](https://arxiv.org/abs/1809.10790)] Deep Object Pose Estimation for Semantic Robotic Grasping of Household Objects[[GitHub](https://github.com/NVlabs/Deep_Object_Pose)]  :fire: :star:
 - [[ECCV 2018](https://arxiv.org/pdf/1804.00175v4.pdf)] DeepIM: Deep Iterative Matching for 6D Pose Estimation [[GitHub](https://github.com/NVlabs/DeepIM-PyTorch)] [[Project](https://rse-lab.cs.washington.edu/projects/deepim/)] :fire: :star:
 - [[Arxiv 2017](https://arxiv.org/abs/1711.00199)] PoseCNN: A Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes [[GitHub](https://github.com/NVlabs/PoseCNN-PyTorch)] [[Project](https://rse-lab.cs.washington.edu/projects/posecnn/)] :fire: :star:
-- [[ECCV 2022](https)] Pose
-- [[ECCV 2022](https)] Pose
-- [[ECCV 2022](https)] Pose
+- [[CVPR 2022](https://ieeexplore.ieee.org/document/9009519)] CDPN: Coordinates-Based Disentangled Pose Network for Real-Time RGB-Based 6-DoF Object Pose Estimation
+
 
 
 ---
