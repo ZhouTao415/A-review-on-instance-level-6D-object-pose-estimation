@@ -27,9 +27,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR 2022](https://arxiv.org/pdf/2204.09429.pdf)] HRPose: Real-Time High-Resolution 6D Pose Estimation Network Using Knowledge Distillation
 - [[CVPR 2022](https://arxiv.org/pdf/2204.10776.pdf)] Gen6D: Generalizable Model-Free 6-DoF Object Pose Estimation from RGB Images
 - [[ECCV 2022](https://arxiv.org/pdf/2104.02527.pdf)] RCVPose: Vote from the Center: 6 DoF Pose Estimation in RGB-D Images by Radial Keypoint Voting
-- [[IEEE 2022](https://ieeexplore.ieee.org/document/9682507)] VisuoTactile 6D Pose Estimation of an In-Hand Object Using Vision and Tactile Sensor Data
 - [[arxiv 2022](https://arxiv.org/abs/2203.07918)] GPV-Pose: Category-level Object Pose Estimation via Geometry-guided Point-wise Voting [[GitHub](https://github.com/lolrudy/GPV_Pose)]
 - [[ICRA 2022](https://arxiv.org/pdf/2203.01929)] CenterSnap: Single-Shot Multi-Object 3D Shape Reconstruction and Categorical 6D Pose and Size Estimation [[GitHub](https://github.com/zubair-irshad/CenterSnap)] :fire:
+- [[IEEE 2022](https://ieeexplore.ieee.org/document/9682507)] VisuoTactile 6D Pose Estimation of an In-Hand Object Using Vision and Tactile Sensor Data
 
 #### Before 2021
 - [[ICCV 2021](https://arxiv.org/abs/2109.10115v2)] StereOBJ-1M: Large-scale Stereo Image Dataset for 6D Object Pose Estimation
