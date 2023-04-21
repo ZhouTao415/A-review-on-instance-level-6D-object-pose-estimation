@@ -2,7 +2,7 @@
 ## Abstract
 6D object pose estimation of rigid objects has received increasing attention in computer vision communities, which brings broad applications in robotics, augmented reality, autonomous driving, etc. Existing 6D object pose estimation methods can be divided into two categories by their semantic level: instance-level or category-level. In particular, instance-level 6D pose estimation goes further beyond object category semantics and focuses per-object perception. It opens up a wide applications in robotic manipulation and grasping. This paper mainly review, analyze and summarize the prior-art methods on instance-level 6D object pose estimation based on deep neural networks. First, we introduce a taxonomy of 6D object pose estimation methods based on input types and network characteristics. Secondly, we implement these methods by training on the unified benchmarks, e.g., LIMEMOD, and analyze the quantitative and qualitative results, with a summary of the major advantages and disadvantages of exiting backbones, modules and designs. Finally, we will examine potential avenues for future research, which we hope can be used as a guidance for practitioners working on 6D object pose estimation.
 
-- [[2022](./A_review_on_instance_level_6D_object_pose_estimation.pdf)] A review on instance-level 6D object pose estimation
+- [[2023](./A_review_on_instance_level_6D_object_pose_estimation.pdf)] A review on instance-level 6D object pose estimation
 
 - Future research direction: End-to-end Deep Learning-based Method with Refinement
 ![plot](./DL-based-algorithm.png)
