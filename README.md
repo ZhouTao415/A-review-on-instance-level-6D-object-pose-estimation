@@ -30,17 +30,34 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arxiv 2022](https://arxiv.org/abs/2203.07918)] GPV-Pose: Category-level Object Pose Estimation via Geometry-guided Point-wise Voting [[GitHub](https://github.com/lolrudy/GPV_Pose)]
 - [[ICRA 2022](https://arxiv.org/pdf/2203.01929)] CenterSnap: Single-Shot Multi-Object 3D Shape Reconstruction and Categorical 6D Pose and Size Estimation [[GitHub](https://github.com/zubair-irshad/CenterSnap)] :fire:
 - [[IEEE 2022](https://ieeexplore.ieee.org/document/9682507)] VisuoTactile 6D Pose Estimation of an In-Hand Object Using Vision and Tactile Sensor Data
-
+- [[ICRA 2022](https://arxiv.org/pdf/2109.06161.pdf)] Single-Stage Keypoint-Based Category-Level Object Pose Estimation from an RGB Image
+- 
 #### Before 2021
 - [[ICCV 2021](https://arxiv.org/abs/2109.10115v2)] StereOBJ-1M: Large-scale Stereo Image Dataset for 6D Object Pose Estimation
 - [[Arxiv 2021](https://arxiv.org/abs/2111.00190)] Leveraging SE(3) Equivariance for Self-Supervised Category-Level Object Pose Estimation [[Project](https://dragonlong.github.io/equi-pose)]
 - [[CVPR 2021](https://arxiv.org/pdf/2102.12145)] GDR-Net: Geometry-Guided Direct Regression Network for Monocular 6D Object Pose Estimation [[GitHub](https://github.com/THU-DA-6D-Pose-Group/GDR-Net)] :fire: :star:
 - [[CVPR2021](https://arxiv.org/pdf/2103.02242)] FFB6D: A Full Flow Bidirectional Fusion Network for 6D Pose Estimation [[GitHub](https://github.com/ethnhe/FFB6D)] :fire: 
+- [[CVPR 2021](https://arxiv.org/pdf/2110.04411.pdf)] Unsupervised Pose-Aware Part Decomposition for 3D Articulated Objects
+- [[CVPR 2021](https://arxiv.org/pdf/2102.09334.pdf)] StablePose: Learning 6D Object Poses from Geometrically Stable Patches
+- [[ICCV 2021](https://arxiv.org/pdf/2108.08367.pdf)] SO-Pose: Exploiting Self-Occlusion for Direct 6D Pose Estimation
+- [[ICCV 2021](https://arxiv.org/pdf/2104.00633.pdfQD)] RePOSE: Fast 6D Object Pose Refinement via Deep Texture Rendering
+- [[IEEE 2021](https://arxiv.org/pdf/2010.12807.pdf)] REDE: End-to-end Object 6D Pose Robust Estimation Using Differentiable Outliers Elimination
+- [[IEEE 2021](https://ieeexplore.ieee.org/document/9361135)] Optimizing RGB-D Fusion for Accurate 6DoF Pose Estimation
+- [[ICLR 2021](https://arxiv.org/pdf/2101.12378.pdf)] NeMo: Neural Mesh Models of Contrastive Features for Robust 3D Pose Estimation
+- [[IEEE 2021](https://arxiv.org/pdf/2002.00911.pdf)] L6DNet: Light 6 DoF Network for Robust and Precise Object Pose Estimation with Small Datasets
+- [[IROS 2021](https://arxiv.org/pdf/2109.10127.pdf)] KDFNet: Learning Keypoint Distance Field for 6D Object Pose Estimation
+- [[IEEE 2021](https://arxiv.org/pdf/2104.07528.pdf)] Investigations on Output Parameterizations of Neural Networks for Single Shot 6D Object Pose Estimation
+- [[CVPR 2021](https://arxiv.org/pdf/2103.07054.pdf)] FS-Net: Fast Shape-based Network for Category-Level 6D Object Pose Estimation with Decoupled Rotation Mechanism
+- [[ECCV 2021](https://arxiv.org/pdf/2107.12549.pdf)] DISP6D: Disentangled Implicit Shape and Pose Learning for Scalable 6D Pose Estimation
+- [[IROS2 2021](https://arxiv.org/pdf/2108.08755.pdf)] Category-Level 6D Object Pose Estimation via Cascaded Relation and Recurrent Reconstruction Networks
+- [[CVPR 2021](https://arxiv.org/pdf/2108.00516.pdf)] BundleTrack: 6D Pose Tracking for Novel Objects without Instance or Category-Level 3D Models
+- [[arXiv 2021](https://arxiv.org/pdf/1905.06658.pdf)] Vision-based Robotic Grasping From Object Localization, Object Pose Estimation to Grasp Estimation for Parallel Grippers: A Review
+- [[IEEE 2021](https://ieeexplore.ieee.org/document/9561404)] 6D Object Pose Estimation with Pairwise Compatible Geometric Features
+
 #### Before 2020
 - [[CVPR 2020](https://arxiv.org/abs/1809.1079)] PVN3D: A Deep Point-wise 3D Keypoints Voting Network for 6DoF Pose Estimation [[GitHub](https://github.com/ethnhe/PVN3D)] :fire: :star:
 - [[CVPR 2020](https://openaccess.thecvf.com/content_CVPR_2020/papers/Song_HybridPose_6D_Object_Pose_Estimation_Under_Hybrid_Representations_CVPR_2020_paper.pdf)] PVN3D: HybridPose: 6D Object Pose Estimation under Hybrid Representations [[GitHub](https://github.com/chensong1995/HybridPose)] :fire: :star:
 - [[IEEE 2020](https://arxiv.org/abs/1910.10750)] 6-PACK: Category-level 6D Pose Tracker with Anchor-Based Keypoints [[GitHub](https://github.com/j96w/6-PACK)] [[Project](https://sites.google.com/view/6packtracking)] :fire: :star:
-- [[ECCV 2022](https)] Pose
 - [[ECCV 2022](https)] Pose
 - [[ECCV 2022](https)] Pose
 - [[ECCV 2022](https)] Pose
@@ -50,7 +67,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CoRL 2018](https://arxiv.org/abs/1809.10790)] Deep Object Pose Estimation for Semantic Robotic Grasping of Household Objects[[GitHub](https://github.com/NVlabs/Deep_Object_Pose)]  :fire: :star:
 - [[ECCV 2018](https://arxiv.org/pdf/1804.00175v4.pdf)] DeepIM: Deep Iterative Matching for 6D Pose Estimation [[GitHub](https://github.com/NVlabs/DeepIM-PyTorch)] [[Project](https://rse-lab.cs.washington.edu/projects/deepim/)] :fire: :star:
 - [[Arxiv 2017](https://arxiv.org/abs/1711.00199)] PoseCNN: A Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes [[GitHub](https://github.com/NVlabs/PoseCNN-PyTorch)] [[Project](https://rse-lab.cs.washington.edu/projects/posecnn/)] :fire: :star:
-
+- [[ECCV 2022](https)] Pose
+- [[ECCV 2022](https)] Pose
+- [[ECCV 2022](https)] Pose
 
 
 ---
