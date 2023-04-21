@@ -20,7 +20,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ICRA 2022](https://arxiv.org/pdf/2203.01929)] CenterSnap: Single-Shot Multi-Object 3D Shape Reconstruction and Categorical 6D Pose and Size Estimation [[GitHub](https://github.com/zubair-irshad/CenterSnap)] :fire:
 - [[CVPR 2022](https://arxiv.org/pdf/2205.12257)] OnePose: One-Shot Object Pose Estimation without CAD Models [[GitHub](https://github.com/zju3dv/OnePose)] [[Project](https://zju3dv.github.io/onepose/)]:fire:
 - [[CVPR 2022](https://arxiv.org/pdf/2203.05334v1)] ICG: Fusing Region and Depth for Highly Efficient 3D Tracking of Textureless Objects [[GitHub](https://github.com/DLR-RM/3DObjectTracking)] :fire:
-- [[ECCV 2022](https://arxiv.org/pdf/2104.02527.pdf)]Vote from the Center: 6 DoF Pose Estimation in RGB-D Images by Radial Keypoint Voting
+- [[ECCV 2022](https://arxiv.org/pdf/2104.02527.pdf)] RCVPose: Vote from the Center: 6 DoF Pose Estimation in RGB-D Images by Radial Keypoint Voting
 #### Before 2021
 - [[ICCV 2021](https://arxiv.org/abs/2109.10115v2)] StereOBJ-1M: Large-scale Stereo Image Dataset for 6D Object Pose Estimation
 - [[Arxiv 2021](https://arxiv.org/abs/2111.00190)] Leveraging SE(3) Equivariance for Self-Supervised Category-Level Object Pose Estimation [[Project](https://dragonlong.github.io/equi-pose)]
