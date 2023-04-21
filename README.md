@@ -4,7 +4,7 @@
 
 - [[2022](./A_review_on_instance_level_6D_object_pose_estimation.pdf)] A review on instance-level 6D object pose estimation
 
-- End-to-end Deep Learning-based algorithm]{End-to-end Deep Learning-based Method with Refinement
+- Future research direction: End-to-end Deep Learning-based Method with Refinement
 ![plot](./DL-based-algorithm.png)
 
 # Pose-Estimation-Paper-List
