@@ -51,7 +51,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ECCV 2021](https://arxiv.org/pdf/2107.12549.pdf)] DISP6D: Disentangled Implicit Shape and Pose Learning for Scalable 6D Pose Estimation
 - [[IROS2 2021](https://arxiv.org/pdf/2108.08755.pdf)] Category-Level 6D Object Pose Estimation via Cascaded Relation and Recurrent Reconstruction Networks
 - [[CVPR 2021](https://arxiv.org/pdf/2108.00516.pdf)] BundleTrack: 6D Pose Tracking for Novel Objects without Instance or Category-Level 3D Models
-- [[arXiv 2021](https://arxiv.org/pdf/1905.06658.pdf)] Vision-based Robotic Grasping From Object Localization, Object Pose Estimation to Grasp Estimation for Parallel Grippers: A Review
+- [[arXiv 2021](https://arxiv.org/pdf/1905.06658.pdf)] Vision-based Robotic Grasping From Object Localization, Object Pose Estimation to Grasp Estimation for Parallel Grippers
 - [[IEEE 2021](https://ieeexplore.ieee.org/document/9561404)] 6D Object Pose Estimation with Pairwise Compatible Geometric Features
 
 #### Before 2020
