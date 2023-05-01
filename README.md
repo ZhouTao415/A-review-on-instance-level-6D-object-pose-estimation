@@ -78,8 +78,22 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[Arxiv 2017](https://arxiv.org/abs/1711.00199)] PoseCNN: A Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes [[GitHub](https://github.com/NVlabs/PoseCNN-PyTorch)] [[Project](https://rse-lab.cs.washington.edu/projects/posecnn/)] :fire: :star:
 - [[CVPR 2022](https://ieeexplore.ieee.org/document/9009519)] CDPN: Coordinates-Based Disentangled Pose Network for Real-Time RGB-Based 6-DoF Object Pose Estimation
 
-
-
+#### Survey-Review
+- [[Survey ](https)] On 
+- [[IEEE 2022](https://ieeexplore.ieee.org/document/9836663)] A Review of 6D Object Pose Estimation 
+- [[Survey 2022 (https://tuprints.ulb.tu-darmstadt.de/21027/)] A Survey of 6D Object Detection Based on 3D Models for Industrial Applications 
+- [[Springer 2021](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-021-00444-8)] Review of deep learning: concepts, CNN architectures, challenges, applications, future directions 
+- [[ArXiv 2020](https://arxiv.org/abs/1905.06658)] Vision-based Robotic Grasping From Object Localization, Object Pose Estimation to Grasp Estimation for Parallel Grippers: A Review 
+- [[ArXiv 2020](https://arxiv.org/abs/2009.07378)] BOP Challenge 2020 on 6D Object Localization
+- [[ArXiv 2020](https://arxiv.org/pdf/2001.10609.pdf)] A Review on Object Pose Recovery: from 3D Bounding Box Detectors to Full 6D Pose Estimators  
+- [[ArXiv 2019](https://www.researchgate.net/publication/344765943_Survey_on_6D_Pose_Estimation_of_Rigid_Object)] Survey on 6D Pose Estimation of Rigid Object 
+- [[ArXiv 2019](https://arxiv.org/abs/1903.04229)] Instance- and Category-level 6D Object Pose Estimation 
+- [[IEEE 2019](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9543652)] A Comprehensive Review on 3D Object Detection
+and 6D Pose Estimation With Deep Learning 
+- [[Springer 2019](https://link.springer.com/book/10.1007/978-3-030-30754-7)] New Trends in Image Analysis and Processing – ICIAP 2019
+- [[Springer 2017](https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-017-0993-1)] Text feature extraction based on deep learning: a review
+- [[Springer 2016](https://link.springer.com/chapter/10.1007/978-3-319-49409-8_52)] On Evaluation of 6D Object Pose Estimation
+- [[IEEE 2016](https://ieeexplore.ieee.org/document/7368948)] Pose Estimation for Augmented Reality: A Hands-On Survey
 ---
 
 ## Ohters(Datasets)
