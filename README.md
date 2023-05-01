@@ -6,9 +6,9 @@
 
 - Future research direction: End-to-end Deep Learning-based Method with Refinement
 ![plot](./DL-based-algorithm.png)
-![plot](./figures/LineMod accuracy results for each object (ADD(-S)-0.1).png)
-![plot](./figures/Comparisons of the RGB_RGB-D image-based deep learning methods.pngg)
-![plot](./figures/Comparisons between the RGB and RGB-D image-based methods.png)
+![plot]("./figures/LineMod accuracy results for each object (ADD(-S)-0.1).png")
+![plot]("./figures/Comparisons of the RGB_RGB-D image-based deep learning methods.png")
+![plot]("./figures/Comparisons between the RGB and RGB-D image-based methods.png")
 
 # Pose-Estimation-Paper-List
 -A list of papers, libraries and datasets
