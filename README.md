@@ -79,9 +79,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR 2022](https://ieeexplore.ieee.org/document/9009519)] CDPN: Coordinates-Based Disentangled Pose Network for Real-Time RGB-Based 6-DoF Object Pose Estimation
 
 #### Survey-Review
-- [[Survey ](https)] On 
+- [[Survey 2022](https://tuprints.ulb.tu-darmstadt.de/21027/)] A Survey of 6D Object Detection Based on 3D Models for Industrial Applications 
 - [[IEEE 2022](https://ieeexplore.ieee.org/document/9836663)] A Review of 6D Object Pose Estimation 
-- [[Survey 2022 (https://tuprints.ulb.tu-darmstadt.de/21027/)] A Survey of 6D Object Detection Based on 3D Models for Industrial Applications 
+
 - [[Springer 2021](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-021-00444-8)] Review of deep learning: concepts, CNN architectures, challenges, applications, future directions 
 - [[ArXiv 2020](https://arxiv.org/abs/1905.06658)] Vision-based Robotic Grasping From Object Localization, Object Pose Estimation to Grasp Estimation for Parallel Grippers: A Review 
 - [[ArXiv 2020](https://arxiv.org/abs/2009.07378)] BOP Challenge 2020 on 6D Object Localization
